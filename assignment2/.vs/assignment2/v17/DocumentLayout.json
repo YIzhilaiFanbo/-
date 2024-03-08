@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a2753\\source\\repos\\assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{452AC1DA-0CEB-4030-AA17-DEAC3625D839}|ConsoleToplitzMatrix\\ConsoleToplitzMatrix.csproj|c:\\users\\a2753\\source\\repos\\assignment2\\consoletoplitzmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452AC1DA-0CEB-4030-AA17-DEAC3625D839}|ConsoleToplitzMatrix\\ConsoleToplitzMatrix.csproj|solutionrelative:consoletoplitzmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C89747-E7E4-4D92-B99A-EA1A836C6A2D}|ConsolePrimeNumber\\ConsolePrimeNumber.csproj|C:\\Users\\a2753\\source\\repos\\assignment2\\consoleprimenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C89747-E7E4-4D92-B99A-EA1A836C6A2D}|ConsolePrimeNumber\\ConsolePrimeNumber.csproj|solutionrelative:consoleprimenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F2151C-9DF0-4315-9BA5-FB3F97B31FA7}|ConsolePrimeFactor\\ConsolePrimeFactor.csproj|C:\\Users\\a2753\\source\\repos\\assignment2\\consoleprimefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F2151C-9DF0-4315-9BA5-FB3F97B31FA7}|ConsolePrimeFactor\\ConsolePrimeFactor.csproj|solutionrelative:consoleprimefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888BE445-960F-448A-A06F-85B9EF048611}|ConsoleArray\\ConsoleArray.csproj|C:\\Users\\a2753\\source\\repos\\assignment2\\consolearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888BE445-960F-448A-A06F-85B9EF048611}|ConsoleArray\\ConsoleArray.csproj|solutionrelative:consolearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsoleToplitzMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleToplitzMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsoleToplitzMatrix\\Program.cs",
+              "RelativeToolTip": "ConsoleToplitzMatrix\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:07:46.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsolePrimeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolePrimeNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsolePrimeNumber\\Program.cs",
+              "RelativeToolTip": "ConsolePrimeNumber\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:06:29.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsolePrimeFactor\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolePrimeFactor\\Program.cs",
+              "ToolTip": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsolePrimeFactor\\Program.cs",
+              "RelativeToolTip": "ConsolePrimeFactor\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:05:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsoleArray\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleArray\\Program.cs",
+              "ToolTip": "C:\\Users\\a2753\\source\\repos\\assignment2\\ConsoleArray\\Program.cs",
+              "RelativeToolTip": "ConsoleArray\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:04:41.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

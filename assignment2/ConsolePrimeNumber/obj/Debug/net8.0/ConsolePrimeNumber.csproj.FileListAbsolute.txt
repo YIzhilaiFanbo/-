@@ -1,0 +1,14 @@
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\bin\Debug\net8.0\ConsolePrimeNumber.exe
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\bin\Debug\net8.0\ConsolePrimeNumber.deps.json
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\bin\Debug\net8.0\ConsolePrimeNumber.runtimeconfig.json
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\bin\Debug\net8.0\ConsolePrimeNumber.dll
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\bin\Debug\net8.0\ConsolePrimeNumber.pdb
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.AssemblyInfoInputs.cache
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.AssemblyInfo.cs
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.dll
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\refint\ConsolePrimeNumber.dll
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.pdb
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ConsolePrimeNumber.genruntimeconfig.cache
+C:\Users\a2753\source\repos\assignment2\ConsolePrimeNumber\obj\Debug\net8.0\ref\ConsolePrimeNumber.dll

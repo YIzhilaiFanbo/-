@@ -1,0 +1,14 @@
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\bin\Debug\net8.0\ConsoleToplitzMatrix.exe
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\bin\Debug\net8.0\ConsoleToplitzMatrix.deps.json
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\bin\Debug\net8.0\ConsoleToplitzMatrix.runtimeconfig.json
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\bin\Debug\net8.0\ConsoleToplitzMatrix.dll
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\bin\Debug\net8.0\ConsoleToplitzMatrix.pdb
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.AssemblyInfoInputs.cache
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.AssemblyInfo.cs
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.csproj.CoreCompileInputs.cache
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.dll
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\refint\ConsoleToplitzMatrix.dll
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.pdb
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ConsoleToplitzMatrix.genruntimeconfig.cache
+C:\Users\a2753\source\repos\assignment2\ConsoleToplitzMatrix\obj\Debug\net8.0\ref\ConsoleToplitzMatrix.dll

@@ -1,0 +1,14 @@
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\bin\Debug\net8.0\ConsoleArray.exe
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\bin\Debug\net8.0\ConsoleArray.deps.json
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\bin\Debug\net8.0\ConsoleArray.runtimeconfig.json
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\bin\Debug\net8.0\ConsoleArray.dll
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\bin\Debug\net8.0\ConsoleArray.pdb
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.AssemblyInfoInputs.cache
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.AssemblyInfo.cs
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.csproj.CoreCompileInputs.cache
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.dll
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\refint\ConsoleArray.dll
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.pdb
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ConsoleArray.genruntimeconfig.cache
+C:\Users\a2753\source\repos\assignment2\ConsoleArray\obj\Debug\net8.0\ref\ConsoleArray.dll
