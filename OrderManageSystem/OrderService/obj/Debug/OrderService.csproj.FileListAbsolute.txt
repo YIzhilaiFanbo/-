@@ -1,0 +1,7 @@
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\bin\Debug\OrderApp.dll.config
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\bin\Debug\OrderApp.dll
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\bin\Debug\OrderApp.pdb
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\obj\Debug\OrderApp.dll
+C:\Users\a2753\source\repos\Software-construction-basic-assignment\Assignment6\OrderService\obj\Debug\OrderApp.pdb
